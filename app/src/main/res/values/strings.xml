@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraXDemo</string>
+    <string name="qr_code_not_found">未发现二维码</string>
+    <string name="qr_code_found">发现二维码</string>
+</resources>
